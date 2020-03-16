@@ -1,2 +1,1 @@
-# BattViewr
-Smart battery monitoring system for hobby-grade batteries
+Go To: https://github.com/MustafaBiyikli/SMAQ
