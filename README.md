@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Go To: https://github.com/MustafaBiyikli/SMAQ
-=======
 # SMAQ
 
 <p align="center">
