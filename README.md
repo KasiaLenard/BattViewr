@@ -38,4 +38,3 @@
 -   [Alexandros Charitonidis](https://github.com/Alexandros-Charitonidis) :four_leaf_clover:
 -   [Mustafa Biyikli](https://github.com/MustafaBiyikli) :sunny:
 -   [Katarzyna Lenard](https://github.com/KasiaLenard) :snowflake:
->>>>>>> 830f41a722f5584b73dff75b2f8b69b798d353a5
